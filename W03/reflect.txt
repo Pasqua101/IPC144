@@ -1,0 +1,19 @@
+1. The reason for 10.12 not displaying as the value expected is because the number is stored as a floating-point, a double to be more descriptive since lf is used in the printf.
+Floating-points don't store all of the potential values, it only store an approximate number, which is why 10.12 doesn't print as expected. 
+Plus, since floating points display as a base of 10, when you run the code it is converted into binary, which has a base of 2 and then is reconverted to a base of 10. 
+There are some inaccuracies with this conversion which leads to 10.12 not being shown as 10.12.
+
+2a) The possible values that can return with intValue % 2, are numbers that are even numbers, since even numbers will have a remainder of 0 when divided by 2. 
+Odd numbers work similarly, but have a remainder of more than 1. It can also be used to find numbers that are a multiple of 2.
+
+b) The possible values that can be returned with intValue % 3, are odd numbers and numbers that are a multiple of 3.
+
+c) The possible values that can be returned with intValue % 100, are numbers that are a multiple of 100 and decimals, since you can divide whole numbers by 100 to convert them in a decimal. I used % 100 to display how much money was left after the amount of loonies needed were found.
+
+3. int totalSlices = 11 * 12;
+   int estimatedSlicesConsumed = 21 * 3;
+   int wholePizzasEaten = estimatedSlicesConsumed / 12;
+   int extraSlicesNeeded = totalSlices % estimatedSlicesConsumed;
+
+4. It is best to convert floating-point values to an integer, since floating-point values do not store all of the potential values, but instead an apporixamtion of the values since floating-point values are stored as a base of 10 and not a base of 2, which is binary. 
+So when you're doing arithmetic operations with floating-point values, you may not get the most accuarate answer. Whereas, if integers were being used for arithmetic operations, since the values stored in an integer are stored as a base of 2, making the answer accurate to what it should be since the numbers are stored as a binary value. 

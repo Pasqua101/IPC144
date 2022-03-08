@@ -1,0 +1,39 @@
+1. The two selection constructs that could have been used for this is, optional path and conditional expression. 
+   
+   Optional path:
+   int month;
+   printf("Enter a number of a month");
+   scanf("%d", month);
+   if (month == 1)
+   {
+    printf("JAN");
+   }
+   if (month == 2)
+   {
+    printf("FEB");
+   }
+
+   Conditional expressions:
+   int month;
+   printf("Enter a number of a month");
+   scanf("%d", month);
+   if (month == 1)
+   {
+    printf("JAN");
+   }
+   else if (month == 2)
+   {
+    printf("FEB");
+   }
+
+
+2. The three types of iteration constructs are while, do while and for loops. The type of iteration construct that I used for the validation routines is a for loop.
+   I used for loops to make sure the user could only enter in the ratings a certain number of times, while also being able to check that values entered were supported by the program.
+   I also used a nested for loop so when the user would enter in their rating for the evening, the code would break out of that loop and switch to the loop for the morning ratings.
+   This allowed me to make sure that the user was able to enter in their ratings a specified number of times, while also making sure that everything else worked as intended.
+
+3. To test and debug my program, I put in print statements at certain parts of my code to make sure that everything was running normally.
+   One way that I did was to have the code print out "success" to make sure that my conditional for when the values were properly entered worked.
+   Another way of doing this was having my variable for my for loops prints out to make sure that it was running the specified number of times.
+   I would also check the values of my integers to make sure they were correct, through print statements. As well as trying to change some of my 
+   conditionals or loops if something didn't work the way I intended it to.
