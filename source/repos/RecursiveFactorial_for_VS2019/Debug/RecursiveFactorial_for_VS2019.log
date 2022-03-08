@@ -1,0 +1,3 @@
+﻿  Source.c
+C:\Users\marco\source\repos\RecursiveFactorial_for_VS2019\Source.c(16,37): warning C4013: 'r_fact' undefined; assuming extern returning int
+  RecursiveFactorial_for_VS2019.vcxproj -> C:\Users\marco\source\repos\recursive_string_reverse\Debug\RecursiveFactorial_for_VS2019.exe

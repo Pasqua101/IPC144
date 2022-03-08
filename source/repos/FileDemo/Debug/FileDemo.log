@@ -1,0 +1,7 @@
+﻿  append.c
+  mainApp.c
+  productHelpers.c
+  read.c
+  write.c
+  Generating Code...
+  FileDemo.vcxproj -> C:\Users\marco\source\repos\FileDemo\Debug\FileDemo.exe

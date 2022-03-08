@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\Week3">
+      <UniqueIdentifier>{a0927447-6197-4ea0-8f53-06339b210c5e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Midterm exam">
+      <UniqueIdentifier>{5b0e0253-e48b-4aa2-9008-3fea8f9893e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Week8">
+      <UniqueIdentifier>{4de70d20-f03c-4861-aba1-287e302af689}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Final Exam">
+      <UniqueIdentifier>{d80d6466-b487-47ac-99bf-527381bb9d10}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="practice.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="OnlineGuides.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="w1p1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="CelsiusToFahren.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LoopExercise1.c">
+      <Filter>Source Files\Week3</Filter>
+    </ClCompile>
+    <ClCompile Include="Harmonics.c">
+      <Filter>Source Files\Week3</Filter>
+    </ClCompile>
+    <ClCompile Include="quiz3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="quiz5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DebugingQ1.c">
+      <Filter>Source Files\Midterm exam</Filter>
+    </ClCompile>
+    <ClCompile Include="Question2.c">
+      <Filter>Source Files\Midterm exam</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.c">
+      <Filter>Source Files\Week8</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_practice.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ArrayPointer.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FunctionProtoype.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz7.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Menti.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Quiz12.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Debugging.c">
+      <Filter>Source Files\Final Exam</Filter>
+    </ClCompile>
+    <ClCompile Include="WalkthoughQ2.c">
+      <Filter>Source Files\Final Exam</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

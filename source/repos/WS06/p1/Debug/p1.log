@@ -1,0 +1,27 @@
+﻿  main1.c
+C:\Users\marco\source\repos\WS06\p1\w6p1.h(20,1): error C2011: 'CatFoodInfo': 'struct' type redefinition
+C:\Users\marco\source\repos\WS06\p1\w6p1.h(19): message : see declaration of 'CatFoodInfo'
+C:\Users\marco\source\repos\WS06\p1\w6p1.c(24,1): error C2371: 'getIntPositive': redefinition; different basic types
+C:\Users\marco\source\repos\WS06\p1\w6p1.h(35): message : see declaration of 'getIntPositive'
+C:\Users\marco\source\repos\WS06\p1\w6p1.c(68,1): warning C4026: function declared with formal parameter list
+C:\Users\marco\source\repos\WS06\p1\w6p1.c(100,9): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+C:\Users\marco\source\repos\WS06\p1\w6p1.c(122,1): warning C4026: function declared with formal parameter list
+C:\Users\marco\source\repos\WS06\p1\main1.c(80,30): error C2440: '=': cannot convert from 'CatFoodInfo' to 'int'
+C:\Users\marco\source\repos\WS06\p1\main1.c(95,29): error C2440: '=': cannot convert from 'CatFoodInfo' to 'int'
+C:\Users\marco\source\repos\WS06\p1\main1.c(184,1): error C2371: 'start': redefinition; different basic types
+C:\Users\marco\source\repos\WS06\p1\w6p1.c(133): message : see declaration of 'start'
+  w6p1.c
+C:\Users\marco\source\repos\WS06\p1\w6p1.c(24,1): error C2371: 'getIntPositive': redefinition; different basic types
+C:\Users\marco\source\repos\WS06\p1\w6p1.h(35): message : see declaration of 'getIntPositive'
+C:\Users\marco\source\repos\WS06\p1\w6p1.c(68,1): warning C4026: function declared with formal parameter list
+C:\Users\marco\source\repos\WS06\p1\w6p1.c(100,9): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+C:\Users\marco\source\repos\WS06\p1\w6p1.c(79,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marco\source\repos\WS06\p1\w6p1.c(83,4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marco\source\repos\WS06\p1\w6p1.c(86,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marco\source\repos\WS06\p1\w6p1.c(90,4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marco\source\repos\WS06\p1\w6p1.c(93,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marco\source\repos\WS06\p1\w6p1.c(97,4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marco\source\repos\WS06\p1\w6p1.c(100,3): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marco\source\repos\WS06\p1\w6p1.c(104,4): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\marco\source\repos\WS06\p1\w6p1.c(122,1): warning C4026: function declared with formal parameter list
+  Generating Code...

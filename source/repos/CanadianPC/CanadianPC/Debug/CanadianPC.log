@@ -1,0 +1,10 @@
+﻿  Source.c
+C:\Users\marco\source\repos\CanadianPC\CanadianPC\Source.c(11,10): warning C4473: 'scanf_s' : not enough arguments passed for format string
+C:\Users\marco\source\repos\CanadianPC\CanadianPC\Source.c(11,10): message : placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+C:\Users\marco\source\repos\CanadianPC\CanadianPC\Source.c(11,10): message : the missing variadic argument 2 is required by format string '%6s'
+C:\Users\marco\source\repos\CanadianPC\CanadianPC\Source.c(11,10): message : this argument is used as a buffer size
+C:\Users\marco\source\repos\CanadianPC\CanadianPC\Source.c(14,8): warning C4013: 'strcpy' undefined; assuming extern returning int
+C:\Users\marco\source\repos\CanadianPC\CanadianPC\Source.c(27,15): warning C4013: 'isalpha' undefined; assuming extern returning int
+C:\Users\marco\source\repos\CanadianPC\CanadianPC\Source.c(33,15): warning C4013: 'isdigit' undefined; assuming extern returning int
+C:\Users\marco\source\repos\CanadianPC\CanadianPC\Source.c(39): warning C4715: 'postalCode': not all control paths return a value
+  CanadianPC.vcxproj -> C:\Users\marco\source\repos\CanadianPC\Debug\CanadianPC.exe

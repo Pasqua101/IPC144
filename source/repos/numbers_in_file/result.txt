@@ -1,0 +1,4 @@
+
+ The number of numbers = 5
+ The sum of all numbers = 201
+ The mean average of the numbers 40.20

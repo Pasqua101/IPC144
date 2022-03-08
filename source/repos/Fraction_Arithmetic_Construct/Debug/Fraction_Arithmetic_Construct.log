@@ -1,0 +1,4 @@
+﻿  Source.c
+C:\Users\marco\source\repos\Fraction_Arithmetic_Construct\Source.c(48,8): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char (*)[30][10]'
+C:\Users\marco\source\repos\Fraction_Arithmetic_Construct\Source.c(48,8): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'char (*)[30][10]'
+  Fraction_Arithmetic_Construct.vcxproj -> C:\Users\marco\source\repos\Fraction_Arithmetic_Construct\Debug\Fraction_Arithmetic_Construct.exe

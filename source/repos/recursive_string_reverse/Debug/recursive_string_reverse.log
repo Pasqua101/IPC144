@@ -1,0 +1,2 @@
+﻿Source.obj : error LNK2019: unresolved external symbol _strelen referenced in function _main
+C:\Users\marco\source\repos\recursive_string_reverse\Debug\recursive_string_reverse.exe : fatal error LNK1120: 1 unresolved externals

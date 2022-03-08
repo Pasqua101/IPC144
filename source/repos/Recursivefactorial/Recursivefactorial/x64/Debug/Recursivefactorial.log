@@ -1,0 +1,4 @@
+﻿  reverse.c
+C:\Users\marco\source\repos\Recursivefactorial\Recursivefactorial\reverse.c(13,22): warning C4013: 'strelen' undefined; assuming extern returning int
+reverse.obj : error LNK2019: unresolved external symbol strelen referenced in function main
+C:\Users\marco\source\repos\Recursivefactorial\x64\Debug\Recursivefactorial.exe : fatal error LNK1120: 1 unresolved externals

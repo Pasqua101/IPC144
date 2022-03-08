@@ -1,0 +1,5 @@
+﻿  firstC.c
+  helloWorld.c
+C:\Users\Marco\source\repos\startup\helloWorld.c(6,1): error C2449: found '{' at file scope (missing function header?)
+C:\Users\Marco\source\repos\startup\helloWorld.c(12,1): error C2059: syntax error: '}'
+  Generating Code...
